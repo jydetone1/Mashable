@@ -1,0 +1,18 @@
+@font-face {
+  font-family: 'Nikaia-Regular5';
+  src: url('Nikaia-Regular5.woff') format('woff'),
+       url('Nikaia-Regular5.ttf') format('truetype'),
+       url('Nikaia-Regular5.svg#Nikaia-Regular5') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Nikaia';
+  src: url('Nikaia.eot');
+  src: url('Nikaia.woff2') format('woff2'),
+       url('Nikaia.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
